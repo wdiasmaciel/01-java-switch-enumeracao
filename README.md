@@ -58,7 +58,9 @@ Escolha um tipo de frete e um valor para o produto. Calcule o total somando o pr
 Exemplo para um produto de R$ 100,00 com frete `EXPRESSO`:
 
 Frete: EXPRESSO
+
 Valor do frete: R$ 25,00
+
 Total: R$ 125,00
 
 Formate os valores monetários com duas casas decimais. Leia o tipo de frete do usuário e trate uma opção invalida.
